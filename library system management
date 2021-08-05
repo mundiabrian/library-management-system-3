@@ -75,7 +75,7 @@ int menu() {
 
     do {
         printf("\tCommunity Library System\n");
-        printf("Welcome Ms. Purity\n");
+        printf("Welcome Mr. Mundia\n");
         printf("1. Add user\n");
         printf("2. View all users\n");
         printf("3. Add user\n");
